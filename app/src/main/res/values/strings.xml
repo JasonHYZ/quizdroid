@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizDroid2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_multiple">MultipleActivity</string>
+    <string name="title_activity_mutiple">MutipleActivity</string>
+    <string name="title_activity_pager_adapter">PagerAdapter</string>
+    <string name="title_activity_page_adapter">PageAdapter</string>
+</resources>
